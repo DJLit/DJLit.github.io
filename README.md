@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# DJ Lit's documentation of everything tech!
+## For teams after 2019-20
 
-You can use the [editor on GitHub](https://github.com/DJLit/tech-team-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! If you're looking at this, it's because you wish to understand how we've built the various services and websites in DJ Lit. In college, I bet my ass that no other committee/ club documents as much as I'm going. Before I start, this documentation is going to be really long. However, feel free to jump to the sections that you require anytime.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Services
 
-### Markdown
+In the committee, we provite the following tech services:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. DJVU ([djvu.in](https://www.djvu.in))
 
-```markdown
-Syntax highlighted code block
+DJVU is the blogging platform of the committee. Every editorial member has an account, and the tech head has an account. Tech team can be given accounts if need be. I will explain the entire website in a later section.
 
-# Header 1
-## Header 2
-### Header 3
+2. Email (write@djvu.in)
 
-- Bulleted
-- List
+If any outsider wishes to contribute their article to the blog, they can do so by sending an email to this email address. However, this is only a redirector! It's not an actual inbox. More on this in a specific section.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DJLit/tech-team-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[WIP]
