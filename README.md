@@ -87,11 +87,9 @@ Often Ghost process exits due to the shitty GoDaddy hosting. If that happens,
 - go to djvu_blog/ folder
 - start ghost again using ghost-cli or pm2, preferably pm2
 
-### Emails
-
-Emails like `write@djvu.in` redirect everything that they receive to the gmail address `djvu1819@gmail.com`. This allows for a cleaner email address.
-We use Migadu for this. With Migadu, we get unlimited email addresses but we can only send 5 emails per day for free.
-This is too less for marketting team or the full committee, hence we do not use @djvu.in emails completely.
-Instead, we set up email forwarders to receive the emails.
-
-To set up Migadu, simply put in the DNS settings from thier documentation into Cloudflare.
+```bash
+ssh <confidential information omitted>
+cd djvu_blog
+cd current
+pm2 start ecosystem.config.js
+```
