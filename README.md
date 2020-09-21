@@ -91,5 +91,5 @@ Often Ghost process exits due to the shitty GoDaddy hosting. If that happens,
 ssh <confidential information omitted>
 cd djvu_blog
 cd current
-pm2 start ecosystem.config.js
+pm2 start ecosystem.config.yaml
 ```
